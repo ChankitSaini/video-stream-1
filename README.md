@@ -14,7 +14,7 @@
 </p>
 
 ## 📊 CodeFactor Stats
-[![CodeFactor](https://www.codefactor.io/repository/github/levina-lab/video-stream/badge)](https://www.codefactor.io/repository/github/levina-lab/video-stream)
+[![CodeFactor](https://www.codefactor.io/repository/github/ChankitSaini/video-stream-1/badge)](https://www.codefactor.io/repository/github/ChankitSaini/video-stream-1)
 
 ## 🎭 Preview
 <p align="center">
